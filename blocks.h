@@ -2,7 +2,7 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	{"",	"sb-kernel",														0,		3},
-	{"",	"sb-weather",														0,		6},
+	{"",	"sb-weather",														3600,		6},
 	{"",	"sb-traffic",														2,		2},
 	{"",	"sb-memory",														30,		7},
 	{"",	"sb-cpu_usage",														5,		8},
