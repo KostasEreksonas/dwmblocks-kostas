@@ -23,8 +23,3 @@ The statusbar is made from text output from commandline programs. Blocks are add
 # Notes
 
 As of now, I am using scripts for i3blocks from [i3blocks-contrib](https://github.com/KostasEreksonas/i3blocks-contrib) to extend the dwmblocks. Later I plan to make my own custom scripts for the status bar.
-
-# Scripts
-
-As of now, these scripts are used:
-1. [CPU usage](../main/scripts/cpu_usage) - a script to monitor cpu usage.
